@@ -5,7 +5,8 @@
 	3) echo
 
 ## <b>1)Open Programs</b>
-	If you want to acess(open) any programm using the VoiceBot you need to add it to the environment variable (e.g PATH)
+	If you want to acess(open) any programm using the VoiceBot you need to add it to the environment variable 
+	(e.g PATH)
 
 	To open a programm say
 
