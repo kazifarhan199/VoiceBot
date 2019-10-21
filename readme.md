@@ -32,7 +32,7 @@
 	1) Use "pylint" as linter
 	2) Use comments 
 	3) Add added funcnility in readme fiel 
-	4) Make the pull gequest
+	4) Make the pull request
 
 <br>
 
